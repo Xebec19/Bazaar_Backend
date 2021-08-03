@@ -1,27 +1,23 @@
+import Logger from "./logger";
 
 const promise = require('bluebird'); // or any other Promise/A+ compatible library;
 
 const initOptions = {
-    promiseLib: promise // overriding the default (ES6 Promise);
+    promiseLib: promise, // overriding the default (ES6 Promise);
+    capSQL: true,
 };
 
 const pgp = require('pg-promise')(initOptions);
-// See all options: http://vitaly-t.github.io/pg-promise/module-pg-promise.html
 
 const monitor = require('pg-monitor');
 
 monitor.attach(initOptions); // attach to all query events;
-// See API: https://github.com/vitaly-t/pg-monitor#attachoptions-events-override
 
 monitor.setTheme('matrix'); // change the default theme;
-// Other themes: https://github.com/vitaly-t/pg-monitor/wiki/Color-Themes
 
-/*monitor.setLog((msg, info) => {
-    // save the screen messages into your own log file;
-});*/
-// See API: https://github.com/vitaly-t/pg-monitor#log
-
-// Database connection details;
+monitor.setLog((msg: string, info: string) => {
+    Logger.info('--SQL : ' + msg + ' ' + info);
+});
 const cn = {
     host: 'localhost', // 'localhost' is the default;
     port: 5432, // 5432 is the default;
@@ -31,7 +27,7 @@ const cn = {
 
     // to auto-exit on idle, without having to shut-down the pool;
     // see https://github.com/vitaly-t/pg-promise#library-de-initialization
-    allowExitOnIdle: true
+    allowExitOnIdle: false
 };
 
 const db = pgp(cn); // database instance;

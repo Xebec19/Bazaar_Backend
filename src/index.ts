@@ -1,8 +1,8 @@
 import express from 'express'
 import cors from 'cors'
-import Logger from './connections/logger'
+import Logger from './libs/logger'
 import * as de from 'dotenv'
-import morganMiddleware from './connections/morgan'
+import morganMiddleware from './libs/morgan'
 const app = express()
 const port = process.env.PORT || 3000
 
@@ -29,4 +29,11 @@ app.use('/api/order', require('./routes/order'))
 
 const server = app.listen(port, () => {
   Logger.info(`Server listening at http://localhost:${port}`)
+})
+
+process.on('SIGTERM', () => {
+  Logger.warn('SIGTERM signal received: closing server')
+  server.close(() => {
+  Logger.warn('Server closed')
+  })
 })
