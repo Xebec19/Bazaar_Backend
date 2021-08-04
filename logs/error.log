@@ -52,3 +52,36 @@
 [31m}[39m
 2021-08-03 23:16 [31merror[39m: [31merror: duplicate key value violates unique constraint "bazaar_users_email_key"[39m
 2021-08-03 23:16 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 22:57 [31merror[39m: [31mwhile logging user : QueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'password123'"[39m
+[31m}[39m
+2021-08-04 22:57 [31merror[39m: [31mwhile logging user : QueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'passwor123'"[39m
+[31m}[39m
+2021-08-04 22:57 [31merror[39m: [31mwhile logging user : QueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'passwor123'"[39m
+[31m}[39m
+2021-08-04 23:05 [31merror[39m: [31mTypeError: Cannot read property 'trim' of undefined[39m
+2021-08-04 23:05 [31merror[39m: [31mTypeError: Cannot read property 'trim' of undefined[39m
+2021-08-04 23:07 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:08 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:08 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:08 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:09 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:09 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:11 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:11 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:12 [31merror[39m: [31mEmail already exists[39m

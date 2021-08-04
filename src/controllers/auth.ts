@@ -16,22 +16,22 @@ const testEmail = (email: string) => {
 export const register = async (req: Request, res: Response) => {
     try {
         let { firstName, lastName, email, phone, password } = req.body;
+        if (!email) { throw 'Invalid email' }
         email = email.trim();
         if (!(testEmail(email.trim()) && !!firstName && !!password)) {
             throw 'Invalid credentials';
         }
-        const check = await db.one('SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower($1)', ['%'+email+'%']);
-        Logger.debug(check);
+        const check = await db.one('SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower($1)', ['%' + email + '%']);
         if (+check.count > 0) {
             throw 'Email already exists';
         }
         const id = await db.one('INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES($1,$2,$3,$4,$5) returning user_id', [firstName, lastName, email, phone, password]);
         res.status(202).json({ message: "User registered successfully", data: id }).end();
     }
-    catch(error) {
+    catch (error) {
         Logger.error(`${error}`);
         res.status(401).json({
-            status: true, message: "Error while occured registering new user",
+            status: false, message: "Error while occured registering new user",
             data: `${error}`
         }).end();
     }
@@ -44,15 +44,18 @@ export const register = async (req: Request, res: Response) => {
  * @desc It allows user to sign in
  */
 export const login = async (req: Request, res: Response) => {
+    Logger.debug('Fired');
     const { email, password } = req.body;
-    try {
-        if (!!email && !!password) {
-            throw 'Invalid email or password';
-        }
-        const users = await db.one('SELECT * FROM bazaar_users');
-        res.status(202).json({ message: "Hello" });
+    if (!email || !password) {
+        res.status(401).json({ status: false, message: 'Invalid email or password', data: null }).end();
+        return;
     }
-    catch (e) {
-        res.status(401).json({ message: "Error" });
-    };
+    try {
+        const user = await db.one('SELECT user_id FROM bazaar_users WHERE email = $1 AND password = $2', [email, password]);
+        res.status(200).json({ status: true, message: 'Fetched User', data: user }).end();
+    }
+    catch (error) {
+        Logger.error(`while logging user : ${error}`);
+        res.status(401).json({ status: false, message: 'Invalid credentials', data: null }).end();
+    }
 }

@@ -4,7 +4,7 @@ const promise = require('bluebird'); // or any other Promise/A+ compatible libra
 
 const initOptions = {
     promiseLib: promise, // overriding the default (ES6 Promise);
-    capSQL: true,
+    capSQL: true
 };
 
 const pgp = require('pg-promise')(initOptions);
@@ -24,9 +24,6 @@ const cn = {
     database: 'bazaar',
     user: 'postgres',
     password: 'root',
-
-    // to auto-exit on idle, without having to shut-down the pool;
-    // see https://github.com/vitaly-t/pg-promise#library-de-initialization
     allowExitOnIdle: false
 };
 
