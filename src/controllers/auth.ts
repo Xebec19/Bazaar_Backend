@@ -9,6 +9,7 @@ const testEmail = (email: string) => {
 
 /**
  * @param req name,email,password
+ * @param res user id
  * @route /api/public/register
  * @type POST
  * @desc It allows user to sign up
@@ -39,6 +40,7 @@ export const register = async (req: Request, res: Response) => {
 
 /**
  * @param req email,password
+ * @param res user details
  * @route /api/public/login
  * @type POST
  * @desc It allows user to sign in

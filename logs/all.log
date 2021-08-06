@@ -802,3 +802,22 @@ time : 2021-08-03 21:44, level : [34minfo[39m, message : [34mServer listening
 2021-08-04 23:12 [31merror[39m: [31mEmail already exists[39m
 2021-08-04 23:12 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 8.817 ms[39m
 [35m[39m
+2021-08-06 19:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:04 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:37 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:37 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant9463@gmail.com%') [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:37 disconnect(postgres@bazaar) [object Object][39m
+2021-08-06 20:04 [31merror[39m: [31mEmail already exists[39m
+2021-08-06 20:04 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 52.115 ms[39m
+[35m[39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant9@gmail.com%') [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 disconnect(postgres@bazaar) [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohn12','as','rohant9@gmail.com',727272,'password123') returning user_id [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 disconnect(postgres@bazaar) [object Object][39m
+2021-08-06 20:04 [35mhttp[39m: [35mPOST /api/public/register 202 63 - 19.083 ms[39m
+[35m[39m
+2021-08-06 20:29 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
