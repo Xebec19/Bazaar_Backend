@@ -14,3 +14,810 @@
 [35m[39m
 2021-08-03 00:23:37:2337 [32minfo[39m: [32mServer listening at http://localhost:3000[39m
 2021-08-03 00:23:58:2358 [32minfo[39m: [32mServer listening at http://localhost:3000[39m
+2021-08-03 00:49:30:4930 [32minfo[39m: [32mServer listening at http://localhost:3000[39m
+2021-08-03 00:49 [32minfo[39m: [32mServer listening at http://localhost:3000[39m
+2021-08-03 00:51 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 19:51 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 19:54 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 20:53 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 20:59 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:05 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:06 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:18 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:19 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:19 [35mhttp[39m: [35mPOST /api/public/login 202 19 - 19.653 ms[39m
+[35m[39m
+2021-08-03 21:23 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:24 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:24 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:26 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:26 [35mhttp[39m: [35mPOST /api/public/login 202 19 - 21.594 ms[39m
+[35m[39m
+2021-08-03 21:28 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:36 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:36 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:37 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:38 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:38 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:38 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:38 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:38 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:38 [34minfo[39m: [34m--SQL : 21:38:59 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 21:38 [34minfo[39m: [34m--SQL : 21:38:59 SELECT * FROM bazaar_users [object Object][39m
+2021-08-03 21:38 [34minfo[39m: [34m--SQL : 21:38:59 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 21:38 [35mhttp[39m: [35mPOST /api/public/login 202 19 - 21.183 ms[39m
+[35m[39m
+2021-08-03 21:41:::[34minfo[39m:::[34mServer listening at http://localhost:3000[39m
+:::2021-08-03 21:41:::[34minfo[39m:::[34mServer listening at http://localhost:3000[39m:::
+:::2021-08-03 21:41:::[34minfo[39m:::[34m--SQL : 21:41:40 connect(postgres@bazaar); useCount: 0 [object Object][39m:::
+:::2021-08-03 21:41:::[34minfo[39m:::[34m--SQL : 21:41:40 SELECT * FROM bazaar_users [object Object][39m:::
+:::2021-08-03 21:41:::[34minfo[39m:::[34m--SQL : 21:41:40 disconnect(postgres@bazaar) [object Object][39m:::
+:::2021-08-03 21:41:::[35mhttp[39m:::[35mPOST /api/public/login 202 19 - 23.677 ms[39m
+[35m[39m:::
+2021-08-03 21:43[34minfo[39m[34mServer listening at http://localhost:3000[39m
+time : 2021-08-03 21:43 level : [34minfo[39m message : [34mServer listening at http://localhost:3000[39m
+time : 2021-08-03 21:44, level : [34minfo[39m, message : [34mServer listening at http://localhost:3000[39m
+time : 2021-08-03 21:44, level : [34minfo[39m, message : [34m--SQL : 21:44:23 connect(postgres@bazaar); useCount: 0 [object Object][39m
+time : 2021-08-03 21:44, level : [34minfo[39m, message : [34m--SQL : 21:44:23 SELECT * FROM bazaar_users [object Object][39m
+time : 2021-08-03 21:44, level : [34minfo[39m, message : [34m--SQL : 21:44:23 disconnect(postgres@bazaar) [object Object][39m
+time : 2021-08-03 21:44, level : [35mhttp[39m, message : [35mPOST /api/public/login 202 19 - 21.963 ms[39m
+[35m[39m
+time : 2021-08-03 21:44, level : [34minfo[39m, message : [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:45 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:46 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:46 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:47 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:47 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:53 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:57 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 21:59 [34minfo[39m: [34m--SQL : 21:59:49 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 21:59 [34minfo[39m: [34m--SQL : 21:59:49 error: Variable $1 out of range. Parameters array length: 0 [object Object][39m
+2021-08-03 21:59 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET ($1,$2,$3,$3,$5) returning id [object Object][39m
+2021-08-03 21:59 [34minfo[39m: [34m--SQL :          params: [] [object Object][39m
+2021-08-03 21:59 [34minfo[39m: [34m--SQL : 21:59:49 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 21:59 [31merror[39m: [31m!!!Error occured while registering user :  Variable $1 out of range. Parameters array length: 0[39m
+2021-08-03 22:00 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:00 [34minfo[39m: [34m--SQL : 22:00:50 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:00 [34minfo[39m: [34m--SQL : 22:00:50 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET ('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:00 [34minfo[39m: [34m--SQL : 22:00:50 error: syntax error at or near "SET" [object Object][39m
+2021-08-03 22:00 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET ('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:00 [34minfo[39m: [34m--SQL : 22:00:50 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:00 [31merror[39m: [31m!!!Error occured while registering user :  syntax error at or near "SET"[39m
+2021-08-03 22:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:03 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:05 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:07 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:07 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:10 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:13 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:15 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:15 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:17 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:17 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:18 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:18 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:19 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:19 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:19 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:21 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:22 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:22 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:23 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:27 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:28 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:30 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:30 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:30 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:30 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:31 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:32 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:34 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:34 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:35 [34minfo[39m: [34m--SQL : 22:35:06 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:35 [34minfo[39m: [34m--SQL : 22:35:06 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:35 [34minfo[39m: [34m--SQL : 22:35:06 error: syntax error at or near "SET" [object Object][39m
+2021-08-03 22:35 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:35 [34minfo[39m: [34m--SQL : 22:35:06 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:35 [31merror[39m: [31m!!!Error occured while registering user :  syntax error at or near "SET"[39m
+2021-08-03 22:35 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 36.654 ms[39m
+[35m[39m
+2021-08-03 22:36 [34minfo[39m: [34m--SQL : 22:36:44 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:36 [34minfo[39m: [34m--SQL : 22:36:44 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:36 [34minfo[39m: [34m--SQL : 22:36:44 error: syntax error at or near "SET" [object Object][39m
+2021-08-03 22:36 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) SET VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:36 [34minfo[39m: [34m--SQL : 22:36:44 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:36 [31merror[39m: [31m!!!Error occured while registering user :  syntax error at or near "SET"[39m
+2021-08-03 22:36 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 8.484 ms[39m
+[35m[39m
+2021-08-03 22:37 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:37 [34minfo[39m: [34m--SQL : 22:37:29 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:37 [34minfo[39m: [34m--SQL : 22:37:29 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:37 [34minfo[39m: [34m--SQL : 22:37:29 error: invalid input syntax for type integer: "rohant946@gmail.com" [object Object][39m
+2021-08-03 22:37 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:37 [34minfo[39m: [34m--SQL : 22:37:29 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:37 [31merror[39m: [31m!!!Error occured while registering user :  invalid input syntax for type integer: "rohant946@gmail.com"[39m
+2021-08-03 22:37 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 33.221 ms[39m
+[35m[39m
+2021-08-03 22:45 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:48 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 22:48 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 4.967 ms[39m
+[35m[39m
+2021-08-03 22:48 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 22:48 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 1.345 ms[39m
+[35m[39m
+2021-08-03 22:48 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 22:48 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 1.014 ms[39m
+[35m[39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:11 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:11 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:11 error: invalid input syntax for type integer: "rohant946@gmail.com" [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com','rohant946@gmail.com','password123') returning id [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:11 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:50 [31merror[39m: [31m!!!Error occured while registering user :  invalid input syntax for type integer: "rohant946@gmail.com"[39m
+2021-08-03 22:50 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 32.531 ms[39m
+[35m[39m
+2021-08-03 22:50 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:45 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:45 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning id [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:45 error: column "id" does not exist [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning id [object Object][39m
+2021-08-03 22:50 [34minfo[39m: [34m--SQL : 22:50:45 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:50 [31merror[39m: [31m!!!Error occured while registering user :  column "id" does not exist[39m
+2021-08-03 22:50 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 38.609 ms[39m
+[35m[39m
+2021-08-03 22:51 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:51 [34minfo[39m: [34m--SQL : 22:51:22 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:51 [34minfo[39m: [34m--SQL : 22:51:22 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 22:51 [34minfo[39m: [34m--SQL : 22:51:22 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:51 [35mhttp[39m: [35mPOST /api/public/register 202 63 - 23.587 ms[39m
+[35m[39m
+2021-08-03 22:53 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:53 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:54 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:54 [34minfo[39m: [34m--SQL : 22:54:18 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:54 [34minfo[39m: [34m--SQL : 22:54:18 SELECT user_id WHERE lower(email) LIKE lower('%'rohant946@gmail.com'%') [object Object][39m
+2021-08-03 22:54 [34minfo[39m: [34m--SQL : 22:54:18 error: syntax error at or near "rohant946" [object Object][39m
+2021-08-03 22:54 [34minfo[39m: [34m--SQL :          query: SELECT user_id WHERE lower(email) LIKE lower('%'rohant946@gmail.com'%') [object Object][39m
+2021-08-03 22:54 [34minfo[39m: [34m--SQL : 22:54:18 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:54 [31merror[39m: [31m!!!Error occured while registering user :  syntax error at or near "rohant946"[39m
+2021-08-03 22:54 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 47.645 ms[39m
+[35m[39m
+2021-08-03 22:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:56 [34minfo[39m: [34m--SQL : 22:56:26 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:56 [34minfo[39m: [34m--SQL : 22:56:26 SELECT user_id WHERE lower(email) LIKE lower('rohant946@gmail.com') [object Object][39m
+2021-08-03 22:56 [34minfo[39m: [34m--SQL : 22:56:26 error: column "user_id" does not exist [object Object][39m
+2021-08-03 22:56 [34minfo[39m: [34m--SQL :          query: SELECT user_id WHERE lower(email) LIKE lower('rohant946@gmail.com') [object Object][39m
+2021-08-03 22:56 [34minfo[39m: [34m--SQL : 22:56:26 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:56 [31merror[39m: [31m!!!Error occured while registering user :  column "user_id" does not exist[39m
+2021-08-03 22:56 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 37.451 ms[39m
+[35m[39m
+2021-08-03 22:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:57 [34minfo[39m: [34m--SQL : 22:57:04 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:57 [34minfo[39m: [34m--SQL : 22:57:04 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('rohant946@gmail.com') [object Object][39m
+2021-08-03 22:57 [34minfo[39m: [34m--SQL : 22:57:04 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:57 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 22:57 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 24.663 ms[39m
+[35m[39m
+2021-08-03 22:59 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:59 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 22:59 [34minfo[39m: [34m--SQL : 22:59:59 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 22:59 [34minfo[39m: [34m--SQL : 22:59:59 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('rohant946@gmail.com') [object Object][39m
+2021-08-03 22:59 [34minfo[39m: [34m--SQL : 22:59:59 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 22:59 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 22:59 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 22:59 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 25.653 ms[39m
+[35m[39m
+2021-08-03 23:01 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('rohant946@gmail.com') [object Object][39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:02 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 error: duplicate key value violates unique constraint "bazaar_users_email_key" [object Object][39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:02 [34minfo[39m: [34m--SQL : 23:02:56 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:02 [31merror[39m: [31m!!!Error occured while registering user :  duplicate key value violates unique constraint "bazaar_users_email_key"[39m
+2021-08-03 23:02 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 48.398 ms[39m
+[35m[39m
+2021-08-03 23:04 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:05 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:05 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 error: duplicate key value violates unique constraint "bazaar_users_email_key" [object Object][39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','rohant946@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:05 [34minfo[39m: [34m--SQL : 23:05:16 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:05 [31merror[39m: [31m!!!Error occured while registering user :  duplicate key value violates unique constraint "bazaar_users_email_key"[39m
+2021-08-03 23:05 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 45.368 ms[39m
+[35m[39m
+2021-08-03 23:06 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:06 [34minfo[39m: [34m--SQL : 23:06:13 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:06 [34minfo[39m: [34m--SQL : 23:06:13 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-03 23:06 [34minfo[39m: [34m--SQL : 23:06:13 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:06 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 23:06 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 23:06 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 26.766 ms[39m
+[35m[39m
+2021-08-03 23:07 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:07 [34minfo[39m: [34m--SQL : 23:07:28 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:07 [34minfo[39m: [34m--SQL : 23:07:28 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-03 23:07 [34minfo[39m: [34m--SQL : 23:07:28 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:07 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 23:07 [31merror[39m: [31m!!!Error occured while registering user : [39m
+2021-08-03 23:07 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 27.168 ms[39m
+[35m[39m
+2021-08-03 23:08 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:01 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:01 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:01 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:08 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 23:08 [31merror[39m: [31mEmail already exists[39m
+2021-08-03 23:08 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 24.960 ms[39m
+[35m[39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:17 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:17 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:17 error: No data returned from the query. [object Object][39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:08 [34minfo[39m: [34m--SQL : 23:08:17 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:08 [31merror[39m: [31mQueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%')"[39m
+[31m}[39m
+2021-08-03 23:08 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 21.386 ms[39m
+[35m[39m
+2021-08-03 23:08 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:08 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:09 [34minfo[39m: [34m--SQL : 23:09:00 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:09 [34minfo[39m: [34m--SQL : 23:09:00 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:09 [34minfo[39m: [34m--SQL : 23:09:00 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:09 [37mdebug[39m: [37m[][39m
+2021-08-03 23:09 [31merror[39m: [31mTypeError: Cannot read property 'user_id' of undefined[39m
+2021-08-03 23:09 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 28.795 ms[39m
+[35m[39m
+2021-08-03 23:10 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:11 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:26 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:26 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:26 error: No data returned from the query. [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:26 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:11 [31merror[39m: [31mQueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%')"[39m
+[31m}[39m
+2021-08-03 23:11 [35mhttp[39m: [35mPOST /api/public/register 401 78 - 34.944 ms[39m
+[35m[39m
+2021-08-03 23:11 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:46 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:46 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:46 error: No data returned from the query. [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:11 [34minfo[39m: [34m--SQL : 23:11:46 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:11 [31merror[39m: [31mQueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%')"[39m
+[31m}[39m
+2021-08-03 23:11 [35mhttp[39m: [35mPOST /api/public/register 401 305 - 39.676 ms[39m
+[35m[39m
+2021-08-03 23:12 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:04 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:04 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:04 error: No data returned from the query. [object Object][39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%') [object Object][39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:04 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:13 [31merror[39m: [31mQueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946l.com%')"[39m
+[31m}[39m
+2021-08-03 23:13 [35mhttp[39m: [35mPOST /api/public/register 401 305 - 38.135 ms[39m
+[35m[39m
+2021-08-03 23:13 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:13 [31merror[39m: [31mInvalid credentials[39m
+2021-08-03 23:13 [35mhttp[39m: [35mPOST /api/public/register 401 97 - 4.557 ms[39m
+[35m[39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:53 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:53 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-03 23:13 [34minfo[39m: [34m--SQL : 23:13:53 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:13 [37mdebug[39m: [37m{ user_id: 1 }[39m
+2021-08-03 23:13 [31merror[39m: [31mEmail already exists[39m
+2021-08-03 23:13 [35mhttp[39m: [35mPOST /api/public/register 401 98 - 29.889 ms[39m
+[35m[39m
+2021-08-03 23:14 [34minfo[39m: [34m--SQL : 23:14:13 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:14 [34minfo[39m: [34m--SQL : 23:14:13 SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%thakur190420@gmail.com%') [object Object][39m
+2021-08-03 23:14 [34minfo[39m: [34m--SQL : 23:14:13 error: No data returned from the query. [object Object][39m
+2021-08-03 23:14 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%thakur190420@gmail.com%') [object Object][39m
+2021-08-03 23:14 [34minfo[39m: [34m--SQL : 23:14:13 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:14 [31merror[39m: [31mQueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE lower(email) LIKE lower('%thakur190420@gmail.com%')"[39m
+[31m}[39m
+2021-08-03 23:14 [35mhttp[39m: [35mPOST /api/public/register 401 313 - 22.647 ms[39m
+[35m[39m
+2021-08-03 23:15 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:15 [34minfo[39m: [34m--SQL : 23:15:57 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:15 [34minfo[39m: [34m--SQL : 23:15:57 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%thakur190420@gmail.com%') [object Object][39m
+2021-08-03 23:15 [34minfo[39m: [34m--SQL : 23:15:57 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:15 [37mdebug[39m: [37m{ count: '0' }[39m
+2021-08-03 23:15 [34minfo[39m: [34m--SQL : 23:15:57 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-03 23:15 [34minfo[39m: [34m--SQL : 23:15:57 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','thakur190420@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:15 [34minfo[39m: [34m--SQL : 23:15:57 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:15 [35mhttp[39m: [35mPOST /api/public/register 202 63 - 31.784 ms[39m
+[35m[39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 connect(postgres@bazaar); useCount: 2 [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%thakur190420@gmail.com%') [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:16 [37mdebug[39m: [37m{ count: '1' }[39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 connect(postgres@bazaar); useCount: 3 [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','thakur190420@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 error: duplicate key value violates unique constraint "bazaar_users_email_key" [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL :          query: INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','thakur190420@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:01 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:16 [31merror[39m: [31merror: duplicate key value violates unique constraint "bazaar_users_email_key"[39m
+2021-08-03 23:16 [35mhttp[39m: [35mPOST /api/public/register 401 158 - 19.942 ms[39m
+[35m[39m
+2021-08-03 23:16 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:52 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:52 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%thakur190420@gmail.com%') [object Object][39m
+2021-08-03 23:16 [34minfo[39m: [34m--SQL : 23:16:52 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:16 [37mdebug[39m: [37m{ count: '1' }[39m
+2021-08-03 23:16 [31merror[39m: [31mEmail already exists[39m
+2021-08-03 23:16 [35mhttp[39m: [35mPOST /api/public/register 401 98 - 26.967 ms[39m
+[35m[39m
+2021-08-03 23:17 [34minfo[39m: [34m--SQL : 23:17:22 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-03 23:17 [34minfo[39m: [34m--SQL : 23:17:22 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%thakur.cs.tarun@gmail.com%') [object Object][39m
+2021-08-03 23:17 [34minfo[39m: [34m--SQL : 23:17:22 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:17 [37mdebug[39m: [37m{ count: '0' }[39m
+2021-08-03 23:17 [34minfo[39m: [34m--SQL : 23:17:22 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-03 23:17 [34minfo[39m: [34m--SQL : 23:17:22 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohan','Thakur','thakur.cs.tarun@gmail.com',73337333,'password123') returning user_id [object Object][39m
+2021-08-03 23:17 [34minfo[39m: [34m--SQL : 23:17:22 disconnect(postgres@bazaar) [object Object][39m
+2021-08-03 23:17 [35mhttp[39m: [35mPOST /api/public/register 202 63 - 14.801 ms[39m
+[35m[39m
+2021-08-04 21:47 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:51 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:52 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:53 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 2.580 ms[39m
+[35m[39m
+2021-08-04 21:53 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 0.514 ms[39m
+[35m[39m
+2021-08-04 21:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:55 [37mdebug[39m: [37mFired[39m
+2021-08-04 21:55 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 5.214 ms[39m
+[35m[39m
+2021-08-04 21:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:57 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:58 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:58 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:58 [37mdebug[39m: [37mFired[39m
+2021-08-04 21:58 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 21:58 [37mdebug[39m: [37mDebugging login, ctrl in invalid email and password[39m
+2021-08-04 21:58 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 5.284 ms[39m
+[35m[39m
+2021-08-04 21:59 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 21:59 [37mdebug[39m: [37mFired[39m
+2021-08-04 21:59 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:39 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:39 SELECT * FROM bazaar_users WHERE email = 'thakur.cs.tarun@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:39 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 21:59 [37mdebug[39m: [37mDebugging login, ctrl in success SQL[39m
+2021-08-04 21:59 [37mdebug[39m: [37mDebugging login,send response[39m
+2021-08-04 21:59 [35mhttp[39m: [35mPOST /api/public/login 202 19 - 52.126 ms[39m
+[35m[39m
+2021-08-04 21:59 [37mdebug[39m: [37mFired[39m
+2021-08-04 21:59 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:58 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:58 SELECT * FROM bazaar_users WHERE email = 'thakur.cs.taru@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:58 error: No data returned from the query. [object Object][39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'thakur.cs.taru@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 21:59 [34minfo[39m: [34m--SQL : 21:59:58 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 21:59 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 21.709 ms[39m
+[35m[39m
+2021-08-04 22:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:03 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:03 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:03 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:04 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:05 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:06 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:06 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:10 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 3.117 ms[39m
+[35m[39m
+2021-08-04 22:10 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:10 [35mhttp[39m: [35mPOST /api/public/login 401 39 - 2.520 ms[39m
+[35m[39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 SELECT COUNT(user_id) FROM bazaar_users WHERE email = '' AND password = 'password123' [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 SELECT * FROM bazaar_users WHERE email = '' AND password = 'password123' [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 error: No data returned from the query. [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = '' AND password = 'password123' [object Object][39m
+2021-08-04 22:10 [34minfo[39m: [34m--SQL : 22:10:43 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:10 [35mhttp[39m: [35mPOST /api/public/login 401 2334 - 50.158 ms[39m
+[35m[39m
+2021-08-04 22:11 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:11 [35mhttp[39m: [35mPOST /api/public/login 401 39 - 2.649 ms[39m
+[35m[39m
+2021-08-04 22:11 [35mhttp[39m: [35mPOST /api/public/login 401 39 - 0.592 ms[39m
+[35m[39m
+2021-08-04 22:11 [35mhttp[39m: [35mPOST /api/public/login 401 39 - 0.498 ms[39m
+[35m[39m
+2021-08-04 22:11 [34minfo[39m: [34m--SQL : 22:11:35 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:11 [34minfo[39m: [34m--SQL : 22:11:35 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:11 [34minfo[39m: [34m--SQL : 22:11:35 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:11 [34minfo[39m: [34m--SQL : 22:11:35 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:11 [34minfo[39m: [34m--SQL : 22:11:35 SELECT * FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:11 [34minfo[39m: [34m--SQL : 22:11:35 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:11 [35mhttp[39m: [35mPOST /api/public/login 202 19 - 25.663 ms[39m
+[35m[39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 error: No data returned from the query. [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:12 [34minfo[39m: [34m--SQL : 22:12:24 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:12 [35mhttp[39m: [35mPOST /api/public/login 401 2351 - 21.984 ms[39m
+[35m[39m
+2021-08-04 22:13 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:13 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:13 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 error: No data returned from the query. [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:13 [34minfo[39m: [34m--SQL : 22:13:33 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:13 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 46.431 ms[39m
+[35m[39m
+2021-08-04 22:15 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:15 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:15 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:15 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 error: No data returned from the query. [object Object][39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:15 [34minfo[39m: [34m--SQL : 22:15:44 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:15 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 52.622 ms[39m
+[35m[39m
+2021-08-04 22:16 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:16 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:16 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:16 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:16 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 error: No data returned from the query. [object Object][39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:16 [34minfo[39m: [34m--SQL : 22:16:37 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:16 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 49.409 ms[39m
+[35m[39m
+2021-08-04 22:17 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:10 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:10 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:10 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:10 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:10 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:10 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:11 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 51.309 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 14.493 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 connect(postgres@bazaar); useCount: 2 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 connect(postgres@bazaar); useCount: 3 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 6.649 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 connect(postgres@bazaar); useCount: 4 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 connect(postgres@bazaar); useCount: 5 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 7.883 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 6 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 7 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 9.181 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 8 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 9 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 6.466 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 10 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 11 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 6.836 ms[39m
+[35m[39m
+2021-08-04 22:17 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:17 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 12 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 connect(postgres@bazaar); useCount: 13 [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 error: No data returned from the query. [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL :          query: SELECT * FROM bazaar_users WHERE email = 'rohant94@gmail.com' AND password = 'passwod123' [object Object][39m
+2021-08-04 22:17 [34minfo[39m: [34m--SQL : 22:17:32 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:17 [35mhttp[39m: [35mPOST /api/public/login 401 19 - 7.686 ms[39m
+[35m[39m
+2021-08-04 22:17 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:18 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:18 [37mdebug[39m: [37mDebugging login, cntl entered in try clause[39m
+2021-08-04 22:18 [34minfo[39m: [34m--SQL : 22:18:03 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:18 [34minfo[39m: [34m--SQL : 22:18:03 SELECT COUNT(user_id) FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:18 [34minfo[39m: [34m--SQL : 22:18:03 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:18 [37mdebug[39m: [37mValue of check is [39m
+2021-08-04 22:18 [34minfo[39m: [34m--SQL : 22:18:03 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:18 [34minfo[39m: [34m--SQL : 22:18:03 SELECT * FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:18 [34minfo[39m: [34m--SQL : 22:18:03 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:18 [37mdebug[39m: [37mDebugging login, ctrl in success SQL[39m
+2021-08-04 22:18 [37mdebug[39m: [37mDebugging login,send response[39m
+2021-08-04 22:18 [35mhttp[39m: [35mPOST /api/public/login 202 19 - 35.170 ms[39m
+[35m[39m
+2021-08-04 22:24 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:36 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:37 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:43 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:43 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:43 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:44 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:44 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:45 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:45 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:47 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:48 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:53 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:53 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:53 [34minfo[39m: [34m--SQL : 22:53:59 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:53 [34minfo[39m: [34m--SQL : 22:53:59 SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:53 [34minfo[39m: [34m--SQL : 22:53:59 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:53 [35mhttp[39m: [35mPOST /api/public/login 200 61 - 26.129 ms[39m
+[35m[39m
+2021-08-04 22:54 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:55 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 22:56 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:56 [34minfo[39m: [34m--SQL : 22:56:30 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:56 [34minfo[39m: [34m--SQL : 22:56:30 SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:56 [34minfo[39m: [34m--SQL : 22:56:30 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:56 [35mhttp[39m: [35mPOST /api/public/login 200 61 - 32.010 ms[39m
+[35m[39m
+2021-08-04 22:56 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:56 [35mhttp[39m: [35mPOST /api/public/login 401 66 - 1.130 ms[39m
+[35m[39m
+2021-08-04 22:56 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:56 [35mhttp[39m: [35mPOST /api/public/login 401 66 - 0.851 ms[39m
+[35m[39m
+2021-08-04 22:57 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:57 [35mhttp[39m: [35mPOST /api/public/login 401 66 - 1.654 ms[39m
+[35m[39m
+2021-08-04 22:57 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:26 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:26 SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:26 error: No data returned from the query. [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:26 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:57 [31merror[39m: [31mwhile logging user : QueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'password123'"[39m
+[31m}[39m
+2021-08-04 22:57 [35mhttp[39m: [35mPOST /api/public/login 401 60 - 27.824 ms[39m
+[35m[39m
+2021-08-04 22:57 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:37 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:37 SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'passwor123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:37 error: No data returned from the query. [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'passwor123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:37 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:57 [31merror[39m: [31mwhile logging user : QueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE email = 'rohant96@gmail.com' AND password = 'passwor123'"[39m
+[31m}[39m
+2021-08-04 22:57 [35mhttp[39m: [35mPOST /api/public/login 401 60 - 11.971 ms[39m
+[35m[39m
+2021-08-04 22:57 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:46 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:46 SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'passwor123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:46 error: No data returned from the query. [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL :          query: SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'passwor123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:46 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:57 [31merror[39m: [31mwhile logging user : QueryResultError {[39m
+[31m    code: queryResultErrorCode.noData[39m
+[31m    message: "No data returned from the query."[39m
+[31m    received: 0[39m
+[31m    query: "SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'passwor123'"[39m
+[31m}[39m
+2021-08-04 22:57 [35mhttp[39m: [35mPOST /api/public/login 401 60 - 5.945 ms[39m
+[35m[39m
+2021-08-04 22:57 [37mdebug[39m: [37mFired[39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:53 connect(postgres@bazaar); useCount: 2 [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:53 SELECT user_id FROM bazaar_users WHERE email = 'rohant946@gmail.com' AND password = 'password123' [object Object][39m
+2021-08-04 22:57 [34minfo[39m: [34m--SQL : 22:57:53 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 22:57 [35mhttp[39m: [35mPOST /api/public/login 200 61 - 3.596 ms[39m
+[35m[39m
+2021-08-04 23:05 [31merror[39m: [31mTypeError: Cannot read property 'trim' of undefined[39m
+2021-08-04 23:05 [35mhttp[39m: [35mPOST /api/public/register 401 129 - 1.596 ms[39m
+[35m[39m
+2021-08-04 23:05 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 23:05 [31merror[39m: [31mTypeError: Cannot read property 'trim' of undefined[39m
+2021-08-04 23:05 [35mhttp[39m: [35mPOST /api/public/register 401 130 - 6.356 ms[39m
+[35m[39m
+2021-08-04 23:07 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-04 23:07 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:07 [35mhttp[39m: [35mPOST /api/public/register 401 92 - 3.214 ms[39m
+[35m[39m
+2021-08-04 23:08 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:08 [35mhttp[39m: [35mPOST /api/public/register 401 92 - 1.696 ms[39m
+[35m[39m
+2021-08-04 23:08 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:08 [35mhttp[39m: [35mPOST /api/public/register 401 92 - 0.970 ms[39m
+[35m[39m
+2021-08-04 23:08 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:08 [35mhttp[39m: [35mPOST /api/public/register 401 92 - 1.142 ms[39m
+[35m[39m
+2021-08-04 23:09 [31merror[39m: [31mInvalid email[39m
+2021-08-04 23:09 [35mhttp[39m: [35mPOST /api/public/register 401 92 - 0.958 ms[39m
+[35m[39m
+2021-08-04 23:09 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:09 [35mhttp[39m: [35mPOST /api/public/register 401 98 - 1.713 ms[39m
+[35m[39m
+2021-08-04 23:10 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [35mhttp[39m: [35mPOST /api/public/register 401 98 - 1.114 ms[39m
+[35m[39m
+2021-08-04 23:10 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [35mhttp[39m: [35mPOST /api/public/register 401 98 - 1.099 ms[39m
+[35m[39m
+2021-08-04 23:10 [31merror[39m: [31mInvalid credentials[39m
+2021-08-04 23:10 [35mhttp[39m: [35mPOST /api/public/register 401 98 - 0.785 ms[39m
+[35m[39m
+2021-08-04 23:10 [34minfo[39m: [34m--SQL : 23:10:48 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 23:10 [34minfo[39m: [34m--SQL : 23:10:48 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-04 23:10 [34minfo[39m: [34m--SQL : 23:10:48 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 23:10 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:10 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 21.961 ms[39m
+[35m[39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:02 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:02 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:02 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 23:11 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:11 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 9.044 ms[39m
+[35m[39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:28 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:28 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant946@gmail.com%') [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:28 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 23:11 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:11 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 8.783 ms[39m
+[35m[39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:31 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:31 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant9463@gmail.com%') [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:31 connect(postgres@bazaar); useCount: 2 [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:31 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohn12','','rohant9463@gmail.com',727272,'password123') returning user_id [object Object][39m
+2021-08-04 23:11 [34minfo[39m: [34m--SQL : 23:11:31 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 23:11 [35mhttp[39m: [35mPOST /api/public/register 202 63 - 8.329 ms[39m
+[35m[39m
+2021-08-04 23:12 [34minfo[39m: [34m--SQL : 23:12:03 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-04 23:12 [34minfo[39m: [34m--SQL : 23:12:03 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant9463@gmail.com%') [object Object][39m
+2021-08-04 23:12 [34minfo[39m: [34m--SQL : 23:12:03 disconnect(postgres@bazaar) [object Object][39m
+2021-08-04 23:12 [31merror[39m: [31mEmail already exists[39m
+2021-08-04 23:12 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 8.817 ms[39m
+[35m[39m
+2021-08-06 19:56 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:02 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:04 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:37 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:37 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant9463@gmail.com%') [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:37 disconnect(postgres@bazaar) [object Object][39m
+2021-08-06 20:04 [31merror[39m: [31mEmail already exists[39m
+2021-08-06 20:04 [35mhttp[39m: [35mPOST /api/public/register 401 99 - 52.115 ms[39m
+[35m[39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 connect(postgres@bazaar); useCount: 0 [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 SELECT count(user_id) FROM bazaar_users WHERE lower(email) LIKE lower('%rohant9@gmail.com%') [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 disconnect(postgres@bazaar) [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 connect(postgres@bazaar); useCount: 1 [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES('Rohn12','as','rohant9@gmail.com',727272,'password123') returning user_id [object Object][39m
+2021-08-06 20:04 [34minfo[39m: [34m--SQL : 20:04:49 disconnect(postgres@bazaar) [object Object][39m
+2021-08-06 20:04 [35mhttp[39m: [35mPOST /api/public/register 202 63 - 19.083 ms[39m
+[35m[39m
+2021-08-06 20:29 [34minfo[39m: [34mServer listening at http://localhost:3000[39m

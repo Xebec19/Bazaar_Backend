@@ -17,7 +17,7 @@ const level = () => {
 const colors = {
   error: 'red',
   warn: 'yellow',
-  info: 'green',
+  info: 'blue',
   http: 'magenta',
   debug: 'white',
 }
@@ -25,7 +25,7 @@ const colors = {
 winston.addColors(colors)
 
 const format = winston.format.combine(
-  winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss:ms' }),
+  winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm' }),
   winston.format.colorize({ all: true }),
   winston.format.printf(
     (info) => `${info.timestamp} ${info.level}: ${info.message}`,
