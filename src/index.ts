@@ -1,8 +1,8 @@
 import express from 'express'
 import cors from 'cors'
-import Logger from './connections/logger'
+import Logger from './utils/winston.logger'
 import * as de from 'dotenv'
-import morganMiddleware from './connections/morgan'
+import morganMiddleware from './utils/morgan.logger'
 const app = express()
 const port = process.env.PORT || 3000
 
