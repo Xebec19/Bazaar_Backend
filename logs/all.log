@@ -76,3 +76,4 @@
 [35m[39m
 2021-08-31 20:02 [35mhttp[39m: [35mPOST /api/public/login 202 14 - 0.470 ms[39m
 [35m[39m
+2021-08-31 20:23 [34minfo[39m: [34mServer listening at http://localhost:3000[39m
