@@ -2,6 +2,13 @@ import { Request, Response } from "express";
 import db from '../libs/database';
 import Logger from "../libs/logger";
 
+/**
+ * 
+ * @param email 
+ * @returns true or false depending on whether email is right or not
+ * @desc checkes email structure
+ * TODO to also pass email with custom domain and ending with country like user@domain.com.in
+ */
 const testEmail = (email: string) => {
     const re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(String(email).toLowerCase());
@@ -12,7 +19,7 @@ const testEmail = (email: string) => {
  * @param res user id
  * @route /api/public/register
  * @type POST
- * @desc It allows user to sign up
+ ** It allows user to sign up, uses {@link testEmail} to check provided email has right structure
  */
 export const register = async (req: Request, res: Response) => {
     try {
@@ -26,6 +33,7 @@ export const register = async (req: Request, res: Response) => {
         if (+check.count > 0) {
             throw 'Email already exists';
         }
+        
         const id = await db.one('INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES($1,$2,$3,$4,$5) returning user_id', [firstName, lastName, email, phone, password]);
         res.status(202).json({ message: "User registered successfully", data: id }).end();
     }
@@ -46,7 +54,6 @@ export const register = async (req: Request, res: Response) => {
  * @desc It allows user to sign in
  */
 export const login = async (req: Request, res: Response) => {
-    Logger.debug('Fired');
     const { email, password } = req.body;
     if (!email || !password) {
         res.status(401).json({ status: false, message: 'Invalid email or password', data: null }).end();
