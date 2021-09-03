@@ -34,7 +34,7 @@ export const register = async (req: Request, res: Response) => {
             throw 'Email already exists';
         }
         bcrypt.genSalt(10, (err, salt) => {
-            bcrypt.hash(password, salt, async function(err, hash) {
+            bcrypt.hash(password, salt, async function (err, hash) {
                 const id = await db.one('INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES($1,$2,$3,$4,$5) returning user_id', [firstName, lastName, email, phone, hash]);
                 res.status(202).json({ message: "User registered successfully", data: id }).end();
             });
@@ -50,8 +50,8 @@ export const register = async (req: Request, res: Response) => {
 }
 
 /**
- * @param req email,password
- * @param res user details
+ * @param  {Request} req email,password
+ * @param  {Response} res user {Object}
  * @route /api/public/login
  * @type POST
  * @desc It allows user to sign in
@@ -62,13 +62,35 @@ export const login = async (req: Request, res: Response) => {
         res.status(401).json({ status: false, message: 'Invalid email or password', data: null }).end();
         return;
     }
+    let user: any;
     try {
-        const user = await db.one('SELECT user_id FROM bazaar_users WHERE email = $1', [email]);
-        Logger.info('--user ',user);
-        res.status(200).json({ status: true, message: 'Fetched User', data: user }).end();
+        user = await db.one('SELECT * FROM bazaar_users WHERE email = $1 LIMIT 1', [email]);
+        if (!user.user_id) {
+            throw "No user found!";
+            return;
+        }
+        Logger.info('--user ', user);
     }
     catch (error) {
         Logger.error(`while logging user : ${error}`);
         res.status(401).json({ status: false, message: 'Invalid credentials', data: null }).end();
+        return;
+    }
+    try {
+        bcrypt.compare(password, user.password, function (err, result) {
+            if (err) {
+                Logger.error(err);
+                throw "--error occurred while comparing password";
+            }
+            if (!result) {
+                throw "--password mismatch";
+            }
+            res.status(200).json({ status: true, message: 'Fetched User', data: user }).end();
+        });
+    }
+    catch (error) {
+        Logger.error(`--error while logging user : ${error}`);
+        res.status(401).json({ status: false, message: 'Invalid credentials', data: null }).end();
+        return;
     }
 }
