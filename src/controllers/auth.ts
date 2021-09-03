@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import db from '../libs/database';
 import Logger from "../libs/logger";
-
+import bcrypt from 'bcryptjs'
 /**
  * 
  * @param email 
@@ -33,9 +33,12 @@ export const register = async (req: Request, res: Response) => {
         if (+check.count > 0) {
             throw 'Email already exists';
         }
-        
-        const id = await db.one('INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES($1,$2,$3,$4,$5) returning user_id', [firstName, lastName, email, phone, password]);
-        res.status(202).json({ message: "User registered successfully", data: id }).end();
+        bcrypt.genSalt(10, (err, salt) => {
+            bcrypt.hash(password, salt, async function(err, hash) {
+                const id = await db.one('INSERT INTO bazaar_users(first_name,last_name,email,phone,password) VALUES($1,$2,$3,$4,$5) returning user_id', [firstName, lastName, email, phone, hash]);
+                res.status(202).json({ message: "User registered successfully", data: id }).end();
+            });
+        });
     }
     catch (error) {
         Logger.error(`${error}`);
@@ -60,7 +63,8 @@ export const login = async (req: Request, res: Response) => {
         return;
     }
     try {
-        const user = await db.one('SELECT user_id FROM bazaar_users WHERE email = $1 AND password = $2', [email, password]);
+        const user = await db.one('SELECT user_id FROM bazaar_users WHERE email = $1', [email]);
+        Logger.info('--user ',user);
         res.status(200).json({ status: true, message: 'Fetched User', data: user }).end();
     }
     catch (error) {
